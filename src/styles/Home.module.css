@@ -6,6 +6,10 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.ww {
+  max-width: 1440px;
+  margin: 0 auto;
+}
 
 .description {
   display: inherit;
