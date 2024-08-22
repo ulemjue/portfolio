@@ -5,7 +5,7 @@ const Hero = () => {
         <div>
           <img className="  px-4 pt-16 pb-16 " src="/pic.png" />
         </div>
-        <p className="font-bold text-6xl mt-0 ml-3">Hi, I’m Tom 👋</p>
+        <p className="font-bold text-6xl mt-0 ml-3">Hi, Im Tom 👋</p>
         <p className="font-normal  text-base ml-3">
           I specialize in full stack development, particularly with React.js and
           Node.js. My main goal is to create exceptional digital experiences

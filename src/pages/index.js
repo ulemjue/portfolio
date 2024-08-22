@@ -1,6 +1,5 @@
 import Header from "../components/Header";
 import Hero from "../components/Hero";
-import styles from "../styles/Home.module.css";
 import About from "../components/about";
 import Skills from "../components/Skills";
 import Experience from "../components/Experience";
