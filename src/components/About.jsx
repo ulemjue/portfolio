@@ -13,23 +13,23 @@ const About = () => {
             </p>
           </div>
           <div className="mb-10 ml-3">
-            I'm a designer turned full stack developer, passionate about
-            React.js and Node.js. I excel in blending technical and visual
-            aspects to craft exceptional digital products, prioritizing user
-            experience, precise design, and optimized code.
+            Im a designer turned full stack developer, passionate about React.js
+            and Node.js. I excel in blending technical and visual aspects to
+            craft exceptional digital products, prioritizing user experience,
+            precise design, and optimized code.
           </div>
 
           <div className="mb-10 ml-3">
-            Since starting my web development journey in 2015, I've embraced
+            Since starting my web development journey in 2015, Ive embraced
             challenges and kept up with the latest tech trends. Now in my early
-            thirties, seven years in, I'm building cutting-edge web apps using
+            thirties, seven years in, Im building cutting-edge web apps using
             Next.js, TypeScript, Nestjs, Tailwindcss, Supabase, and more.
           </div>
 
           <div className="mb-10 ml-3 ">
             {" "}
             With a progressive mindset, I enjoy the entire product development
-            process, from ideation to execution. Off duty, you'll find me on
+            process, from ideation to execution. Off duty, youll find me on
             Twitter, tracking startup journeys, or unwinding. Follow me for tech
             insights and public project updates on Twitter or GitHub.
           </div>
@@ -40,8 +40,8 @@ const About = () => {
             <li>Avid learner</li>
           </div>
           <div className="mb-10">
-            One last thing, I'm available for freelance work, so feel free to
-            reach out and say hello! I promise I don't bite 😉
+            One last thing, Im available for freelance work, so feel free to
+            reach out and say hello! I promise I dont bite 😉
           </div>
         </div>
       </div>
