@@ -1,4 +1,4 @@
-const Skills = () => {
+export const Skills = () => {
   return (
     <div>
       <div>
@@ -12,5 +12,3 @@ const Skills = () => {
     </div>
   );
 };
-// zurag dutuu
-export default Skills;

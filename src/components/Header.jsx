@@ -13,7 +13,7 @@ const Burger = () => {
   );
 };
 
-const Header = () => {
+export const Header = () => {
   return (
     <div className="flex">
       <Name />
@@ -22,6 +22,3 @@ const Header = () => {
     </div>
   );
 };
-export default Header;
-// flex  gap-x-12 m-0
-// list-none

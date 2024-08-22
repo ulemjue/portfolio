@@ -1,4 +1,4 @@
-const Experience = () => {
+export const Experience = () => {
   return (
     <div className="">
       <div>
@@ -47,4 +47,3 @@ const Experience = () => {
     </div>
   );
 };
-export default Experience;

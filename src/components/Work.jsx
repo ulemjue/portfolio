@@ -1,4 +1,4 @@
-const Work = () => {
+export const Work = () => {
   return (
     <div>
       <div className="w-80">
@@ -55,4 +55,3 @@ const Work = () => {
     </div>
   );
 };
-export default Work;

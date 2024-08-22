@@ -1,4 +1,4 @@
-const Hero = () => {
+export const Hero = () => {
   return (
     <div className=" gap-x-48">
       <div>
@@ -32,4 +32,3 @@ const Hero = () => {
     </div>
   );
 };
-export default Hero;

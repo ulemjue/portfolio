@@ -1,3 +1,3 @@
-export default function Name() {
+export function Name() {
   return <p className=" ">Tom</p>;
 }

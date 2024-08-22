@@ -1,4 +1,4 @@
-const About = () => {
+export const About = () => {
   return (
     <div>
       <div className="flex  justify-center text-center ">
@@ -48,5 +48,3 @@ const About = () => {
     </div>
   );
 };
-
-export default About;

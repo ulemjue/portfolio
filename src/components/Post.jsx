@@ -189,14 +189,12 @@
 //     color: "#666",
 //   },
 // };
-// const Post = () => {
-//   return (
-//     <div style={styles.div}>
-//       {datas.map((data) => {
-//         return <BlogPost key={data.id} title={data.title} body={data.body} />;
-//       })}
-//     </div>
-//   );
-// };
-
-// export default Post;
+export const Post = () => {
+  return (
+    <div style={styles.div}>
+      {/* {datas.map((data) => {
+        return <BlogPost key={data.id} title={data.title} body={data.body} />;
+      })} */}
+    </div>
+  );
+};
